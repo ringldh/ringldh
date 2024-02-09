@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋,I'm Chen.
 
-<!--
-**ringldh/ringldh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: 1837169148@qq.com,or ringldh@gmail.com
+- 😄 Read more about my Blog: [here](xxx)
+- - 😄 OR my Bilibili: [here](xxx)
+  - - 😄 OR my CSDN: [here](xxx)
+    - - 😄 OR my whathell: [here](xxx)
+![](https://github-readme-stats.vercel.app/api?username=ringldh&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+You are my ![Visitor Count](https://profile-counter.glitch.me/ringldh/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skill Set
+
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
